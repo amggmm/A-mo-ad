@@ -1,0 +1,54 @@
+# 优酷播放
+@@||mp4.ts
+# 慢慢买图片
+@@||img14.360buyimg.com^$important
+# 夸克AI工具
+@@||ai.sm.cn^$important
+# 哔哩哔哩图片
+@@||i1.hdslb.com^$important
+# 花椒直播网页框架
+@@||s0.ssl.qhres2.com^$important
+@@||s1.ssl.qhres2.com^$important
+@@||s2.ssl.qhres2.com^$important
+@@||s4.ssl.qhres2.com^$important
+# 找靓机微信小程序
+@@||user.zhaoliangji.com^$important
+# 天天酷跑
+@@||game.subway.uu.cc^$important
+# 看剧图片
+@@||www.97kanju.com^$important
+# U净
+@@||phoenix.ujing.online^$important
+# yiyo规则
+@@||yiyolink.xyz^$important
+# 知道网页验证
+@@||cstaticdun.126.net^$important
+# 乐动力运动
+@@||market.m.taobao.com^$important
+@@||huodong.taobao.com^$important
+@@||partners.sina.cn^$important
+@@||360buyimg.com^$important
+@@||wx.17u.cn^$important
+# 腾讯视频APP
+@@||m.v.qq.com^$important
+# 讯飞输入法
+@@||imeclient.openspeech.cn^$important
+@@||imeffkdword.openspeech.cn^$important
+# 酷安头像
+@@||avatar.coolapk.com^$important.
+# bilbil网页端消息
+@@||api.vc.bilibili.com^$important
+# 七猫免费小说个人主页
+@@||xiaoshuo.wtzw.com^$important
+#豌豆荚网页版下载
+@@||android-apps.pp.cn^$important
+# 爱奇艺基本数据
+@@||static.iqiyi.com^$important
+# 咪咕
+@@||plus.migu.cn^$important
+# 小红书网页版
+@@||sns-avatar-qc.xhscdn.com^$important
+@@||fe-static.xhscdn.com^$important
+@@||ci.xiaohongshu.com^$important
+# 微博网页头像
+@@||sinaimg.cn^$important
