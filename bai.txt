@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Title: AMGG 白名单
+! Version: 202302181
+! Expires: 1 day
+! Homepage: https://github.com/amggmm/A-mo-ad
+
 # 优酷播放
 @@||mp4.ts
 # 慢慢买图片
