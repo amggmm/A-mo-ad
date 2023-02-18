@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Title: AMGG 黑名单
+! Version: 202302181
+! Expires: 1 day
+! Homepage: https://github.com/amggmm/A-mo-ad
+
+#番茄小说
 ||api-cn.store.heytapmobi.com^$important
 ||epoch-cn.cdo.heytapmobi.com^$important
 ||api-cn.store.heytapmobi.com^$important
@@ -77,3 +84,51 @@
 ||pangolin-sdk-toutiao-b.com^$important
 ||ads5-normal-lf.zijieapi.com^$important
 ||pglstatp-toutiao.com^$important
+# 穿山甲广告
+||api-access.pangolin-sdk-toutiao-b.com
+||mssdk-bu.snssdk.com
+||aaid.umeng.com
+||img14.360buyimg.com
+||i.snssdk.com
+||is.snssdk.com
+||pangolin.snssdk.com
+||extlog.snssdk.com
+||sf3-ttcdn-tos.pstatp.com
+||bds.snssdk.com
+||dig.bdurl.net
+||api-access.pangolin-sdk-toutiao.com
+||sfl-fe-tos.pglstatp-toutiao.com
+||sf1-be-pack.pglstatp-toutiao.com
+||sf3-fe-tos.pglstatp-toutiao.com
+||log-api.pangolin-sdk-toutiao.com
+||s3-fe-scm.pglstatp-toutiao.com
+||s3a.pstatp.com
+||log-api.pangolin-sdk-toutiao-b.com
+||sf6-be-pack.pglstatp-toutiao.com
+||pp.myapp.com
+||fake-domain^$important
+||tr.byteurl.cn^$important
+||fqnovel.com^$important
+||ads5-normal.zijieapi.com^$important
+||ads4-normal.zijieapi.com^$important
+||ads3-normal.zijieapi.com^$important
+||ads2-normal.zijieapi.com^$important
+||ads1-normal.zijieapi.com^$important
+||reading.snssdk.com^$important
+||gecko5-lf.zijieapi.com^$important
+||feedback-c.zijieapi.com^$important
+||ads3-normal-lf.zijieapi.com^$important
+||tnc3-bjlgy.zijieapi.com^$important
+||mobilelog.cc.netease.com^$important
+# 微信小程序广告
+||pangolin.snssdk.com^$important
+||dm.pstatp.com^$important
+# 微信公众号免费视频播放广告
+||byp501dzpc.vf128.cn^$important
+||byp5064bh9.vf128.cn^$important
+# 酷安什么值得买
+||coolapk.com/^$replace=/{"title":\u4eca\u65e5\u9177\u5b89.*?}\,//
+||coolapk.com/^$replace=/{"entityTemplate":imageCarouselCard_1.*?}\,//
+# 其他规则屏蔽
+||file.7youxi.com^$important
+||cdn.51img3.com^$important
