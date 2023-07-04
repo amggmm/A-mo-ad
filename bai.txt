@@ -58,3 +58,26 @@
 @@||ci.xiaohongshu.com^$important
 # 微博网页头像
 @@||sinaimg.cn^$important
+# 番茄小说书源
+@@||fqnovel.com^$important
+# 携程旅行微信小程序
+@@||c-ctrip.com^$important
+# 葫芦侠
+@@||huluxia.com^$important
+# AI帮个忙
+@@||codelife.cc^$important
+# 2022
+@@||eastmoney.com^$important
+# 夸克云盘
+@@||pan.quark.cn^$important
+@@||download.quark.cn^$important
+@@||umcdn.uc.cn^$important
+# 高德地图
+@@||umdc.aliapp.org^$important
+# 优得刻
+@@||*.ucloud.cn^$important
+# 什么值得买
+@@||qianbao.smzdm.com^$important
+@@||gongyi.m.smzdm.com^$important
+# 幸福里
+@@||*.haoduofangs.com^$important
