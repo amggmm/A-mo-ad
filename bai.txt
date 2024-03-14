@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AMGG 白名单
-! Version: 202302181
+! Version: 2024031401
 ! Expires: 1 day
 ! Homepage: https://github.com/amggmm/A-mo-ad
 
