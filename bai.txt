@@ -121,3 +121,5 @@
 @@||cloudcache.tencent-cloud.com^$important
 # 微信地图
 @@||vectorsdk.map.qq.com^$important
+# 其他
+@@||mp.weixinbridge.com^$important
