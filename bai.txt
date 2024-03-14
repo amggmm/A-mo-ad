@@ -81,3 +81,43 @@
 @@||gongyi.m.smzdm.com^$important
 # 幸福里
 @@||*.haoduofangs.com^$important
+# QQ个人中心
+@@||qq-web.cdn-go.cn^$important
+@@||id3.idqqimg.com^$important
+# 备案
+@@||*.miit.gov.cn^$important
+@@||track.sdbao.com^$important
+# 我的统计
+@@||tj.xiejiaqi.cn^$important
+# 手机QQ验证码
+@@||ssl.log.wtlogin.qq.com^$important
+# 腾讯云
+@@||*.tencentcs.com^$important
+@@||appimg.dbankcdn.com^$important
+@@||dbankcdn.com^$important
+# 微信小程序
+@@||gtimg.wechatpay.cn^$important
+@@||res.servicewechat.com^$important
+@@||wework.qpic.cn^$important
+@@||otheve.beacon.qq.com^$important
+@@||h5.youzan.com^$important
+@@||mmcard.qpic.cn^$important
+@@||mmbiz.qpic.cn^$important
+@@||res.wx.qq.com^$important
+@@||img05.luckincoffeecdn.com^$important
+@@||img04.luckincoffeecdn.com^$important
+@@||aka.ms^$important
+@@||mon.zijieapi.com^$important
+@@||cgicol.amap.com^$important
+@@||bao.tjjt360.com^$important
+@@||q2.qlogo.cn^$important
+# 益世界游戏登录
+@@||duologinsupersdk.ewan.cn^$important
+# 123云盘页面CSS
+@@||statics.123pan.com^$important
+# 华为云储存
+@@||myhuaweicloud.com^$important
+# 腾讯云页面CSS
+@@||cloudcache.tencent-cloud.com^$important
+# 微信地图
+@@||vectorsdk.map.qq.com^$important
