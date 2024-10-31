@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AMGG 白名单
-! Version: 2024031401
+! Version: 2024103101
 ! Expires: 1 day
 ! Homepage: https://github.com/amggmm/A-mo-ad
 
@@ -121,5 +121,21 @@
 @@||cloudcache.tencent-cloud.com^$important
 # 微信地图
 @@||vectorsdk.map.qq.com^$important
+# 腾讯视频网页图片
+@@||tv.puui.qpic.cn^$important
+@@||puui.qpic.cn^$important
+# 爱奇艺网页图片
+@@||static-s.iqiyi.com^$important
+# 淘票票
+@@||m.taopiaopiao.com^$important
+# 喜马拉雅
+@@||mobile.ximalaya.com^$important
+# 微信小游戏
+@@||chafang-game20-zwmly.1x3x.com^$important
+@@||new.xianbao.fun^$important
+# 京东客服页面图片
+@@||dd-static.jd.com^$important
+# 爱奇艺会员页面
+@@||vip.iqiyi.com^$important
 # 其他
 @@||mp.weixinbridge.com^$important
